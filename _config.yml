@@ -1,0 +1,11 @@
+# Site settings
+title: New Shoes Knew News
+email: kgraycar@gmail.com
+description: © 2015 Kyle Graycar
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: kylegraycar
+github_username:  kylegraycar
+
+# Build settings
+markdown: kramdown
