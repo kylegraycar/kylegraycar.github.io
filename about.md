@@ -16,4 +16,4 @@ I graduated from UCLA in 2014, and am now in Yunnan, China.
 ![My helpful screenshot]({{ kylegraycar }}/assets/me.jpg)
 <br>&nbsp;&nbsp;&nbsp;云南大理洱海
 
-[Resume]: /resume "my resume page"
+[Resume]: /resume/ "my resume page"
