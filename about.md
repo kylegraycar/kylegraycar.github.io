@@ -10,8 +10,10 @@ On a macro level I'm interested in contributing to an environmentally sustainabl
 
 I graduated from UCLA in 2014, and am now in Yunnan, China. 
 
-<a href="http://localhost:4000/resume/"> Resume </a>
+[Resume][]
 
 &nbsp;&nbsp;
 ![My helpful screenshot]({{ kylegraycar }}/assets/me.jpg)
 <br>&nbsp;&nbsp;&nbsp;云南大理洱海
+
+[Resume]: /resume "my resume page"
