@@ -5,9 +5,32 @@
     <description>© 2015 Kyle Graycar</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 18 Sep 2015 18:12:54 +0800</pubDate>
-    <lastBuildDate>Fri, 18 Sep 2015 18:12:54 +0800</lastBuildDate>
+    <pubDate>Mon, 21 Sep 2015 10:55:58 +0800</pubDate>
+    <lastBuildDate>Mon, 21 Sep 2015 10:55:58 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>United States Cleantech Outlook</title>
+        <description>&lt;p&gt;Found this really helpful video from &lt;a href=&quot;http://www.greentechmedia.com/articles/read/Video-Breakdown-What-Obamas-Climate-Rule-Really-Means-for-the-Cleantech-I?utm_source=Daily&amp;amp;utm_medium=Headline&amp;amp;utm_campaign=GTMDaily&quot; title=&quot;Greentech Media article&quot;&gt;Greentech Media&lt;/a&gt; that does a great job summarizing the future outlook of the cleantech industry in the US, particularly for photovoltaics.&lt;/p&gt;
+
+&lt;p&gt;Obama’s Clean Power Plan energy targets will be a huge boost for the industry, but there is a four year gap between 2016 and 2020 where the Solar Investment Tax Credit (tax breaks) end and early action incentives to the Plan kick in. This gap is predicted to have a significant negative impact on project deployment and overall growth of the industry.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://www.seia.org&quot; title=&quot;seia homepage&quot;&gt;Solar Energy Industry Association (SEIA)&lt;/a&gt;, the main lobby group for the solar industry, is mobilizing to convince congress to extend the tax breaks until the energy targets begin taking effect.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/kV6F7jqOP5w&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;Source: Rewired for Greentech Media&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 21 Sep 2015 18:00:00 +0800</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/09/21/United-States-Cleantech-Outlook.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/09/21/United-States-Cleantech-Outlook.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Why I Like Environmental Sustainability</title>
