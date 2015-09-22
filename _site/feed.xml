@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>New Shoes Knew News</title>
+    <title>Sigdian</title>
     <description>© 2015 Kyle Graycar</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Sep 2015 12:59:12 +0800</pubDate>
-    <lastBuildDate>Mon, 21 Sep 2015 12:59:12 +0800</lastBuildDate>
+    <pubDate>Tue, 22 Sep 2015 22:02:28 +0800</pubDate>
+    <lastBuildDate>Tue, 22 Sep 2015 22:02:28 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>United States Cleantech Outlook</title>
         <description>&lt;p&gt;Found this really helpful video from &lt;a href=&quot;http://www.greentechmedia.com/articles/read/Video-Breakdown-What-Obamas-Climate-Rule-Really-Means-for-the-Cleantech-I?utm_source=Daily&amp;amp;utm_medium=Headline&amp;amp;utm_campaign=GTMDaily&quot; title=&quot;Greentech Media article&quot;&gt;Greentech Media&lt;/a&gt; that does a great job summarizing the future outlook of the cleantech industry in the US, particularly for photovoltaics.&lt;/p&gt;
 
-&lt;p&gt;Obama’s Clean Power Plan energy targets will be a huge boost for the industry, but there is a four year gap between 2016 and 2020 where the Solar Investment Tax Credit (tax breaks) end and early action incentives to the Plan kick in. This gap is predicted to have a significant negative impact on project deployment and overall growth of the industry.&lt;/p&gt;
+&lt;p&gt;Obama’s Clean Power Plan energy targets will be a huge boost for the industry, but there is a four year gap between 2016 and 2020 where the Solar Investment Tax Credit ends and early action incentives in the Plan come into effect. This gap is predicted to have a significant negative impact on project deployment and overall growth of the industry.&lt;/p&gt;
 
-&lt;p&gt;The &lt;a href=&quot;http://www.seia.org&quot; title=&quot;seia homepage&quot;&gt;Solar Energy Industry Association (SEIA)&lt;/a&gt;, the main lobby group for the solar industry, is mobilizing to convince congress to extend the tax breaks until the energy targets begin taking effect.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&quot;http://www.seia.org&quot; title=&quot;seia homepage&quot;&gt;Solar Energy Industry Association (SEIA)&lt;/a&gt;, the main lobby group for the industry, is mobilizing efforts to convince congress to extend the tax credits until the energy targets begin taking effect.&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/kV6F7jqOP5w&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;Source: Rewired for Greentech Media&lt;/p&gt;
@@ -58,7 +58,7 @@
       </item>
     
       <item>
-        <title>Hello World! 世界好！</title>
+        <title>Hello World! 世界好!</title>
         <description>&lt;p&gt;This personal website is a little project to introduce myself to the world of programming, while enabling me to blog about my random ideas and experiences. I am totally new to this, but hopefully this can build a little foundation in web development from which I can use to apply my interests.&lt;/p&gt;
 
 &lt;p&gt;On a macro level I’m interested in contributing to an environmentally sustainable future. I’m specifically interested in China’s development of alternative energy systems.&lt;/p&gt;
@@ -70,13 +70,13 @@
 &lt;br /&gt;   云南大理洱海&lt;/p&gt;
 </description>
         <pubDate>Tue, 18 Aug 2015 03:15:40 +0800</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/08/18/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/08/18/welcome-to-jekyll.html</guid>
+        <link>http://yourdomain.com/first/post/2015/08/18/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/first/post/2015/08/18/welcome-to-jekyll.html</guid>
         
         
-        <category>jekyll</category>
+        <category>first</category>
         
-        <category>update</category>
+        <category>post</category>
         
       </item>
     
