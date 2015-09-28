@@ -46,12 +46,12 @@ University of California, Los Angeles (June 2014)
 
 <h4><b>SKILL</b></h4>
 <i>Language:</i> fluent in Mandarin Chinese, proficient in Japanese
-<br><i>Computer:</i> ArcGIS, R(statistical analysis), Microsoft Office, blogging (WordPress, Tumblr, and Blogspot) 
-<i>Credential:</i> LEED Green Associate&#0153;<i><br>
+<br><i>Computer:</i> ArcGIS, R(statistical analysis), Microsoft Office, Wordpress, HTML, CSS, Markdown, Github
+<br><i>Credential:</i> LEED Green Associate&#0153;<i><br>
 <h4><b>RECOGNITION</b></h4>
 
 Outstanding Service Award, UCLA Institute of Environment and Sustainability 
 <br>Grand Prize, UCLA Grand Challenges Sustainable LA Student Competition 
 <br>Member, Phi Beta Kappa Society
 
-[Download PDF]({{ kylegraycar.url }}/assets/KyleGraycar_Resume_July2015.pdf)
+[Download PDF]({{ kylegraycar.url }}/assets/KyleGraycar_Resume.pdf)
