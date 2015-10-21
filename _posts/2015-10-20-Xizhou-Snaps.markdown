@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Snaps: Xizhou 大理喜州古镇"
+description: 
+date:   2015-10-20 10:33:00
+categories: photography, China
+---
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/136459740@N03/albums/72157660099552062" title="Xizhou"><img src="https://farm1.staticflickr.com/762/21395030223_58e3369b1c_c.jpg" width="800" height="600" alt="Xizhou"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+#I will continue to add photos to this album as I snap them!#
+
+Xizhou is a touristy little village near Dali Old Town. The trinkets and crowds can be overwhelming in the village itself, but adventure and fun awaits those who rent bikes and journey around the nearby Erhai Lake from which Xizhou is satellite.
+
+Biking around Xizhou makes for a great afternoon. Just be sure to wear sunscreen... I didn't and my students laughed at my peeling arms for a week.
