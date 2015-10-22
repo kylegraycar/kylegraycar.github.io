@@ -11,7 +11,8 @@
 }
 
 .site-title {
-    font-size: 26px;
+    font-size: 40px;
+    text-shadow: 2px 1px #ff0000;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
@@ -110,14 +111,13 @@
 .footer-col-wrapper {
     font-size: 15px;
     color: $grey-color;
-    margin-left: -$spacing-unit / 2;
+    margin: auto;
+    width: 20%;
     @extend %clearfix;
 }
 
 .footer-col {
-    float: left;
     margin-bottom: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2;
 }
 
 .footer-col-1 {
@@ -209,6 +209,8 @@
 
 .post-content {
     margin-bottom: $spacing-unit;
+    margin: auto;
+    width: 95%;
 
     h2 {
         font-size: 32px;

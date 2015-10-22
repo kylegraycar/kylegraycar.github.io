@@ -4,7 +4,7 @@ title: Blog 博客
 permalink: /blog/
 ---
 
-<ul class="post-list">
+<ul class="post-list" align="center">
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
@@ -18,4 +18,4 @@ permalink: /blog/
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe"><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></p>
+  <p class="rss-subscribe" align="center"><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></p>
