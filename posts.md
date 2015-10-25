@@ -19,3 +19,7 @@ permalink: /blog/
   </ul>
 
   <p class="rss-subscribe" align="center"><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></p>
+  <form class="mailing-list" action="/list/" method="post" accept-charset="utf-8">
+                <input name="email" value="Mailing List" id="s" size="15">
+                <input type="submit" name="submit" value="Join" id="submit"> 
+    </form>

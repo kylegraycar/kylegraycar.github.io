@@ -211,3 +211,43 @@ pre {
         }
     }
 }
+
+/**
+ * Mailing List
+ */
+.mailing-list {
+    text-align: center;
+}
+
+#s {
+    -webkit-appearance:none;
+    background-color:#fff;
+    border-left:0px solid #fff;
+    border-right:0px solid #fff;
+    border-top:0px solid #fff;
+    border-bottom:1px solid #000;
+    color: #000;
+    text-decoration: none;
+    font-family: $base-font-family;
+    font-size: 15px;
+}
+
+#submit {
+    -webkit-appearance:none;
+    background-color:#fff;
+    border:none;
+    color: rgba(255, 30, 18, 0.79);
+    font-family: $base-font-family;
+    font-size: 15px;
+    text-decoration: none;
+    cursor: pointer;
+
+    &:visited {
+        color: darken(rgba(255, 30, 18, 0.79), 15%);
+    }
+
+    &:hover {
+        color: $text-color;
+        text-decoration: underline;
+    }
+}
