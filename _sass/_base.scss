@@ -39,10 +39,13 @@ body {
  * Set `margin-bottom` to maintain vertical rhythm
  */
 h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
-ul, ol, dl, figure,
+p, blockquote, pre, ol, dl, figure,
 %vertical-rhythm {
     margin-bottom: $spacing-unit;
+}
+
+ul {
+    margin-bottom: 0px;
 }
 
 
@@ -72,8 +75,12 @@ figcaption {
 /**
  * Lists
  */
-ul, ol {
+ol {
     margin-left: $spacing-unit;
+}
+
+ul {
+    margin-left: 0px;
 }
 
 li {
@@ -211,5 +218,4 @@ pre {
         }
     }
 }
-
 
