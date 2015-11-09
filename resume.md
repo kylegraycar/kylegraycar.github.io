@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Kyle Graycar
+title:
 permalink: /resume/
 ---
+
+##Kyle Graycar
 kgraycar@gmail.com
 
 
