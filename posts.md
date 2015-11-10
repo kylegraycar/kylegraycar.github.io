@@ -18,8 +18,28 @@ permalink: /blog/
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe" align="center"><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></p>
-  <form class="mailing-list" action="/list/" method="post" accept-charset="utf-8">
-                <input name="email" value="Mailing List" id="s" size="15">
-                <input type="submit" name="submit" value="Join" id="submit"> 
-    </form>
+<p align="center">-</p>
+
+
+<!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup">
+<form action="//kylegraycar.us12.list-manage.com/subscribe/post?u=e90ebf818f100e659e91fd302&amp;id=48a1711bb6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+  
+<div class="mc-field-group">
+  <label for="mce-EMAIL">Join my email list to be notified of new posts!</label>
+  <div><input type="email" value="Enter email here" name="EMAIL" class="required email" id="mce-EMAIL"><input type="submit" value="Join" name="subscribe" id="mc-embedded-subscribe" class="button">
+    </div></div>
+</div>
+  <div id="mce-responses" class="clear">
+    <div class="response" id="mce-error-response" style="display:none"></div>
+    <div class="response" id="mce-success-response" style="display:none"></div>
+  </div>
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_e90ebf818f100e659e91fd302_48a1711bb6" tabindex="-1" value=""></div>
+   
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+
+<p class="rss-subscribe" align="center">Or follow via <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></p>

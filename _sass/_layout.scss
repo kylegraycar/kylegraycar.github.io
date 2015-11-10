@@ -256,11 +256,11 @@
 /**
  * Mailing List
  */
-.mailing-list {
+#mc_embed_signup{
     text-align: center;
 }
 
-#s {
+#mce-EMAIL {
     -webkit-appearance:none;
     background-color:#fff;
     border-left:0px solid #fff;
@@ -273,13 +273,13 @@
     font-size: 15px;
 }
 
-#submit {
+#mc-embedded-subscribe {
     -webkit-appearance:none;
     background-color:#fff;
     border:none;
     color: rgba(255, 30, 18, 0.79);
     font-family: $base-font-family;
-    font-size: 15px;
+    font-size: $base-font-size;
     text-decoration: none;
     cursor: pointer;
 
