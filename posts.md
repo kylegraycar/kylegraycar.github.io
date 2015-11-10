@@ -27,7 +27,7 @@ permalink: /blog/
     <div id="mc_embed_signup_scroll">
   
 <div class="mc-field-group">
-  <label for="mce-EMAIL">Join my email list to be notified of new posts!</label>
+  <label for="mce-EMAIL">Join my email list to keep up on new posts!</label>
   <div><input type="email" value="Enter email here" name="EMAIL" class="required email" id="mce-EMAIL"><input type="submit" value="Join" name="subscribe" id="mc-embedded-subscribe" class="button">
     </div></div>
 </div>
@@ -38,8 +38,8 @@ permalink: /blog/
     <div style="position: absolute; left: -5000px;"><input type="text" name="b_e90ebf818f100e659e91fd302_48a1711bb6" tabindex="-1" value=""></div>
    
 </form>
+<p class="rss-subscribe" align="center">Or follow via <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></p>
 </div>
 
 <!--End mc_embed_signup-->
 
-<p class="rss-subscribe" align="center">Or follow via <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></p>

@@ -258,6 +258,12 @@
  */
 #mc_embed_signup{
     text-align: center;
+    border-left:1px solid #000;
+    border-right:1px solid #000;
+    border-top:1px solid #000;
+    border-bottom:1px solid #000;
+    margin: auto;
+    width: 60%;
 }
 
 #mce-EMAIL {
@@ -267,7 +273,7 @@
     border-right:0px solid #fff;
     border-top:0px solid #fff;
     border-bottom:1px solid #000;
-    color: #000;
+    color: $grey-color;
     text-decoration: none;
     font-family: $base-font-family;
     font-size: 15px;
@@ -280,6 +286,7 @@
     color: rgba(255, 30, 18, 0.79);
     font-family: $base-font-family;
     font-size: $base-font-size;
+    font-weight: bold;
     text-decoration: none;
     cursor: pointer;
 
@@ -291,6 +298,10 @@
         color: $text-color;
         text-decoration: underline;
     }
+}
+
+.rss-subscribe {
+    margin-bottom: 0px;
 }
 
 /**
