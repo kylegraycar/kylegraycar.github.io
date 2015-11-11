@@ -23,16 +23,6 @@ body {
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
-
-    #by {
-        color: #939393;
-        margin: 25px;
-    }
-
-    #copyright {
-        color: #939393;
-    }
-    
 }
 
 
@@ -107,11 +97,11 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: rgba(255, 30, 18, 0.79);
+    color: $red-color;
     text-decoration: none;
 
     &:visited {
-        color: darken(rgba(255, 30, 18, 0.79), 15%);
+        color: $red-color-dark;
     }
 
     &:hover {
