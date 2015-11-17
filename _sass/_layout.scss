@@ -330,3 +330,64 @@
  .ig-badge-name a {
     font-family: $base-font-family;
  }
+
+ /**
+ * Share Buttons for Posts
+ */
+.social-media-share {
+    margin: auto;
+    margin-top: 100px;
+    width: 50%;
+}
+
+#share-icon {
+    margin: auto;
+    margin-bottom: 5px;
+    text-align: center;
+    display: block;
+    width: 30px;
+}
+
+#social-media-table {
+    border-top: 1px solid #000;
+    padding-top: 10px;
+}
+
+#facebook-share {
+    margin: auto;
+    margin-right: 10px;
+    width: 20px;
+    border: 1px solid $red-color;
+    background-color: $red-color;
+    border-radius: 100px;
+    color: #ffffff;
+    font-size: 31px;
+    font-weight: bold;
+    padding: 0px 20px 10px 10px;
+    text-decoration: none;
+}
+
+#facebook-share:hover {
+    background-color: white;
+    border: 1px dashed #000;
+    color:$red-color;
+}
+
+#twitter-share {
+    margin: auto;
+    width: 20px;
+    border: 1px solid $red-color;
+    background-color: $red-color;
+    border-radius: 100px;
+    color: #ffffff;
+    font-size: 31px;
+    font-weight: bold;
+    padding: 0px 20px 10px 10px;
+    text-decoration: none;
+}
+
+#twitter-share:hover {
+    background-color: white;
+    border: 1px dashed #000;
+    color:$red-color;
+}
