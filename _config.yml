@@ -2,10 +2,18 @@
 title: Kyle Graycar
 email: kgraycar@gmail.com
 description: © 2015 Kyle Graycar
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "" 
 url: "http://kylegraycar.me"
 twitter_username: kylegraycar
 github_username:  kylegraycar
+timezone:       Asia/Shanghai 
+locale:         en_us # eg. en_us
+name:           "Kyle Graycar"
+icon:           /favicons/mstile-310x310.png # /assets/img/icon.png [best 300px X 300px]
+author:
+  facebook:     hellohellohellohellohellohellohellohello
+  twitter:      kylegraycar
+fb_admins:      713640720
 
 # Build settings
 markdown: kramdown

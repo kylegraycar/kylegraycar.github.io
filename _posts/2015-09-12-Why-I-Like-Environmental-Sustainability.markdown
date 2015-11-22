@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Why I Like Environmental Sustainability"
+title: "Why I Like Environmental Sustainability"
 description: Four reasons one disclaimer
-date:   2015-09-12 01:33:00
+date: 2015-09-12 01:33:00
+featured_image: /assets/succulent1.jpg
 categories: sustainability
+tags: sustainability, environmental science, personal
 ---
 
 1. It's multi-disciplinary.
