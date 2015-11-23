@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hello World! L}!'
+title: 'Hello World! 世界好!'
 description: My first post
 date: 2015-08-17T19:15:40.000Z
 categories: first post
@@ -22,4 +22,4 @@ I graduated from UCLA in 2014, and am now in Yunnan, China.
 
 &nbsp;&nbsp;
 ![Me]({{ kylegraycar }}/assets/me.jpg)
-<br>&nbsp;&nbsp;&nbsp;�W'1w
+<br>&nbsp;&nbsp;&nbsp;云南大理洱海
