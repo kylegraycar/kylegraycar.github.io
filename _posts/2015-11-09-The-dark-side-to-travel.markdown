@@ -1,9 +1,18 @@
 ---
 layout: post
-title:  "The Dark Side of Travel"
-description:
-date:   2015-11-09 11:08:00
+title: The Dark Side of Travel
+description: null
+date: 2015-11-09T11:08:00.000Z
 categories: travel China
+comments:
+  - author:
+      type: full
+      displayName: kylegraycar
+      url: 'https://github.com/kylegraycar'
+      picture: 'https://avatars.githubusercontent.com/u/14287706?v=3&s=73'
+    content: cool
+    date: 2015-11-23T13:01:05.654Z
+
 ---
 
 ![travel1][]
