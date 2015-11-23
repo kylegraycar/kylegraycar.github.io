@@ -353,22 +353,6 @@
     padding-top: 10px;
 }
 
-.facebook-share-button {
-    margin: auto;
-    margin-right: 10px;
-    width: 20px;
-    border: 1px solid $red-color;
-    background-color: $red-color;
-    border-radius: 100px;
-    color: #ffffff;
-    font-size: 31px;
-    font-weight: bold;
-    padding: 0px 20px 10px 10px;
-    text-decoration: none;
-}
-
-.facebook-share-button:hover {
-    background-color: white;
-    border: 1px dashed #000;
-    color:$red-color;
+.fb_iframe_widget {
+    margin-bottom: 12px;
 }
