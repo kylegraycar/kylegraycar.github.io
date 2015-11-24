@@ -28,7 +28,7 @@ permalink: /blog/
   
 <div class="mc-field-group">
   <label for="mce-EMAIL">Join my email list to keep up on new posts!</label>
-  <div><input type="email" value="Enter email here" name="EMAIL" class="required email" id="mce-EMAIL"><input type="submit" value="Join" name="subscribe" id="mc-embedded-subscribe" class="button">
+  <div><input type="email" value="Enter email here" name="EMAIL" class="required email" id="mce-EMAIL"><input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe" class="button">
     </div></div>
 </div>
   <div id="mce-responses" class="clear">

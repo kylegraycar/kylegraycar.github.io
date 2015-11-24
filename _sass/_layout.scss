@@ -12,19 +12,15 @@
 }
 
 .site-title {
+    color: black;
     font-size: 35px;
-    text-shadow: 1px 1px #ff0000;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
 
-    &:visited {
-        color: $grey-color-dark;
-    }
-
     &:hover {
-        color: $text-color;
+        color: $grey-color-dark;
         text-decoration: none;
     }
 }
@@ -38,12 +34,31 @@
     }
 
     .page-link {
+        text-decoration: none;
+        font-weight: bold;
         color: $text-color;
         line-height: $base-line-height;
+        border: 1px solid #fff;
+        padding: 10px;
+        padding-top: 10px;
+        -o-transition:.5s;
+        -ms-transition:.5s;
+        -moz-transition:.5s;
+        -webkit-transition:.5s;
+  /* ...and now for the proper property */
+        transition:.5s;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
-            margin-left: 20px;
+            margin-left: 0px;
+        }
+
+        &:hover {
+            font-weight: bold;
+            border: 1px solid $grey-color-dark;
+            background: $grey-color-dark;
+            color: #fff;
+            border-radius: 4px;
         }
     }
 
@@ -100,6 +115,7 @@
 .site-footer {
     border-top: 0px solid $grey-color-light;
     padding: $spacing-unit 0;
+    margin-top: 20px;
 }
 
 .footer-heading {
@@ -271,6 +287,7 @@
     border-bottom:1px solid #000;
     margin: auto;
     width: 60%;
+    padding: 10px;
 }
 
 #mce-EMAIL {
@@ -287,24 +304,27 @@
 }
 
 #mc-embedded-subscribe {
-    -webkit-appearance:none;
-    background-color:#fff;
-    border:none;
-    color: rgba(255, 30, 18, 0.79);
-    font-family: $base-font-family;
-    font-size: $base-font-size;
-    font-weight: bold;
     text-decoration: none;
-    cursor: pointer;
-
-    &:visited {
-        color: darken(rgba(255, 30, 18, 0.79), 15%);
-    }
+    font-weight: bold;
+    color: rgba(255, 30, 18, 0.79);
+    line-height: 1.5;
+    border: 1px solid #fff;
+    background: #fff;
+    margin: 10px;
+    -o-transition: .5s;
+    -ms-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-transition: .5s;
+    transition: .5s; 
+    font-size: 18px;
 
     &:hover {
-        color: $text-color;
-        text-decoration: underline;
-    }
+            font-weight: bold;
+            border: 1px solid $red-color;
+            background: $red-color;
+            color: #fff;
+            border-radius: 4px;
+        }
 }
 
 .rss-subscribe {

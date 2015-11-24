@@ -6,8 +6,9 @@ permalink: /about/
 
 I'm Kyle!
 
-This is my personal website. 
-I'm from California, USA and am now in Yunnan, China.
+This is my personal website. I built it with [Jekyll][] and host it on [GitHub][]. 
+
+I'm from California, USA and am now in Yunnan, China. When I get around to it, I usually blog about travel, sustainability, and web development.
 
 
 [Resume][]
@@ -16,4 +17,6 @@ I'm from California, USA and am now in Yunnan, China.
 <br>
 
 
-[Resume]: /resume/ "my resume page"
+[Resume]: /resume/ "Hire me? :)"
+[Jekyll]: https://jekyllrb.com
+[GitHub]: https://github.com/kylegraycar
