@@ -12,6 +12,13 @@ comments:
       picture: 'https://avatars.githubusercontent.com/u/14287706?v=3&s=73'
     content: 'This is a test comment. '
     date: 2015-11-23T13:24:57.037Z
+  - author:
+      type: github
+      displayName: kylegraycar
+      url: 'https://github.com/kylegraycar'
+      picture: 'https://avatars.githubusercontent.com/u/14287706?v=3&s=73'
+    content: 'This is another test comment. Party time! &#x592A;&#x597D;&#x73A9;&#x54E6;&#xFF01;&grave;yay&grave;'
+    date: 2015-11-26T01:56:13.203Z
 
 ---
 This personal website is a little project to introduce myself to the world of programming, while enabling me to blog about my random ideas and experiences. I am totally new to this, but hopefully this can build a little foundation in web development from which I can use to apply my interests. 
