@@ -29,13 +29,9 @@ body {
  * Set `margin-bottom` to maintain vertical rhythm
  */
 h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, ol, dl, figure,
+p, blockquote, pre, ol, ul, dl, figure,
 %vertical-rhythm {
     margin-bottom: $spacing-unit;
-}
-
-ul {
-    margin-bottom: 0px;
 }
 
 
@@ -45,6 +41,9 @@ ul {
  */
 img {
     max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
 }
 
 
@@ -70,7 +69,7 @@ ol {
 }
 
 ul {
-    margin-left: 0px;
+    margin-left: $spacing-unit;
 }
 
 li {
