@@ -17,7 +17,7 @@ comments:
       displayName: kylegraycar
       url: 'https://github.com/kylegraycar'
       picture: 'https://avatars.githubusercontent.com/u/14287706?v=3&s=73'
-    content: 'This is another test comment. Party time! &#x592A;&#x597D;&#x73A9;&#x54E6;&#xFF01;&grave;yay&grave;'
+    content: 'This is another test comment. Party time! '
     date: 2015-11-26T01:56:13.203Z
 
 ---
@@ -29,4 +29,3 @@ I graduated from UCLA in 2014, and am now in Yunnan, China.
 
 &nbsp;&nbsp;
 ![Me]({{ kylegraycar }}/assets/me.jpg)
-<br>&nbsp;&nbsp;&nbsp;云南大理洱海

@@ -352,12 +352,39 @@
     font-family: $base-font-family;
  }
 
+/**
+ * Top of Page Button
+ */
+ .top-of-page {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.toplink {
+    color: $red-color-light;
+    border: 1px solid $red-color-light;
+    border-radius: 4px;
+    padding-top: 6px;
+    padding-right: 6px;
+    padding-left: 6px;
+
+    &:visited {
+        color: $red-color-light;
+    }
+
+    &:hover {
+        text-decoration: none;
+        border-color: $red-color;
+        color: $red-color;
+    }
+}
+
  /**
  * Share Buttons for Posts
  */
 .social-media-share {
     margin: auto;
-    margin-top: 100px;
+    margin-top: 80px;
     width: 50%;
 }
 
@@ -392,5 +419,11 @@
  .text-muted {
     margin-bottom: 0px;
     display: inline-block;
+ }
+
+ .comments-authorphoto {
+    float: left;
+    margin-right: 20px;
+    padding-top: 4px;
  }
  

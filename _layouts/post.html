@@ -65,7 +65,7 @@ layout: default
 {% endif %}
 {% for c in sorted_comments %}
   <div class="media">
-      <img src="{{ c.author.picture }}" alt="{{ c.author.displayName}}" height="40" width="40">
+      <img src="{{ c.author.picture }}" alt="{{ c.author.displayName}}" height="40" width="40" class="comments-authorphoto">
       <p class="text-muted">
         <a href="{{ c.author.url }}">{{ c.author.displayName }}</a>
         on {{ c.date | date_to_string }}
@@ -75,5 +75,7 @@ layout: default
 {% else %}
   No comments yet. Be the first!
 {% endfor %}
+
+<div class="top-of-page"><a href="#top" class="toplink">^</a></div>
 
 </div>
