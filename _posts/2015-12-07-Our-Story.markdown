@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Our Story (But Much More)"
-description: A student's impressions 
-date: 2015-12-07 10:30:00
+title: Our Story (But Much More)
+description: "A student's impressions"
+date: 2015-12-07T10:30:00.000Z
 featured_image: /assets/students.jpg
 categories: teaching
-tags: teaching, China, Yunnan
+tags: 'teaching, China, Yunnan'
+comments:
+  - author:
+      type: twitter
+      displayName: LuHai_Liang
+      url: 'https://twitter.com/LuHai_Liang'
+      picture: 'https://pbs.twimg.com/profile_images/419860796386983936/bLkORQWH_bigger.jpeg'
+    content: 'Chinese high expectations dashed by American comedy!'
+    date: 2015-12-10T05:43:01.642Z
+
 ---
 
 Tina is a *Gao San* (Senior) high school student at my school in Yunnan. She's too busy this year preparing for college entrance exams, but was a regular at our English Corner last year. She's quirky, curious, and way too smart for China's education system. 
