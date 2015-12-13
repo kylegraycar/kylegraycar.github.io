@@ -3,7 +3,7 @@ layout: post
 title: "Ruby & Rails"
 description: Codecademy courses finished!
 date: 2015-12-14 12:52:00
-featured_image: /assets/RubyCourseComplete.png
+featured_image: /assets/RubyCourseComplete.jpg
 categories: website
 tags: web development, codecademy, Ruby, Ruby on Rails
 ---
@@ -117,6 +117,6 @@ I'll be updating this site with what I find. Please leave a comment if you know 
 [resources]: http://rubyonrails.org/documentation/
 [edX]: https://www.edx.org
 
-[RubyCourseComplete]: /assets/RubyCourseComplete.png
-[RailsCourseComplete]: /assets/RailsCourseComplete.png
+[RubyCourseComplete]: /assets/RubyCourseComplete.jpg
+[RailsCourseComplete]: /assets/RailsCourseComplete.jpg
 [RequestResponseCycle]: /assets/RequestResponseCycle.png "Source: Codecademy.com"
