@@ -38,27 +38,15 @@
         font-weight: bold;
         color: $text-color;
         line-height: $base-line-height;
-        border: 1px solid #fff;
-        padding: 10px;
-        padding-top: 10px;
-        -o-transition:.5s;
-        -ms-transition:.5s;
-        -moz-transition:.5s;
-        -webkit-transition:.5s;
-  /* ...and now for the proper property */
-        transition:.5s;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
-            margin-left: 0px;
+            margin-left: 15px;
         }
 
         &:hover {
             font-weight: bold;
-            border: 1px solid $grey-color-dark;
-            background: $grey-color-dark;
-            color: #fff;
-            border-radius: 4px;
+            color: $red-color-dark;
         }
     }
 
