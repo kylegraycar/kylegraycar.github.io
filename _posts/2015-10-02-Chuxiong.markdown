@@ -3,12 +3,10 @@ layout: post
 title:  "Snaps: Chuxiong 楚雄"
 description:
 date:   2015-10-02 01:33:00
-categories: photography China
+categories: snaps
 ---
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/136459740@N03/albums/72157658953713439" title="Chuxiong, Yunnan, China"><img src="https://farm1.staticflickr.com/669/21787478532_67579b2d7c_c.jpg" width="800" height="600" alt="Chuxiong, Yunnan, China"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-# I will continue to add photos to this album as I snap them!
 
 This is Chuxiong. I've been living in this city for over a year now, and have grown to enjoy all its subtle and less subtle quirks. Around 500 thousand people call Chuxiong home. It's the capitol of Chuxiong Yi People Autonomous Region, so many people here are part of the Yi ethnic minority.
 
