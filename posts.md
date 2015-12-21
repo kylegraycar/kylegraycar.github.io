@@ -43,3 +43,5 @@ permalink: /blog/
 
 <!--End mc_embed_signup-->
 
+<div class="top-of-page"><a href="#top" class="toplink">^</a></div>
+
