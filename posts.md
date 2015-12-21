@@ -18,8 +18,7 @@ permalink: /blog/
     {% endfor %}
   </ul>
 
-<p align="center">-</p>
-
+<br>
 
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
