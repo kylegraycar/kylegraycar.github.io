@@ -2,8 +2,9 @@
 title: Kyle Graycar
 email: kgraycar@gmail.com
 description: © 2015 Kyle Graycar
-baseurl: "" 
+baseurl: /
 url: "http://kylegraycar.me"
+safe: false
 twitter_username: kylegraycar
 github_username:  kylegraycar
 timezone:       Asia/Shanghai 
@@ -14,6 +15,8 @@ author:
   facebook:     hellohellohellohellohellohellohellohello
   twitter:      kylegraycar
 fb_admins:      713640720
+gems:
+  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown

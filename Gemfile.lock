@@ -1,0 +1,13 @@
+GEM
+  remote: https://ruby.taobao.org/
+  specs:
+    jekyll-sitemap (0.9.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  jekyll-sitemap
+
+BUNDLED WITH
+   1.11.2
