@@ -8,15 +8,13 @@ safe: false
 twitter_username: kylegraycar
 github_username:  kylegraycar
 timezone:       Asia/Shanghai 
-locale:         en_us # eg. en_us
+locale:         en_us
 name:           "Kyle Graycar"
-icon:           /favicons/mstile-310x310.png # /assets/img/icon.png [best 300px X 300px]
+icon:           /favicons/mstile-310x310.png
 author:
   facebook:     hellohellohellohellohellohellohellohello
-  twitter:      kylegraycar
+  twitter:      
 fb_admins:      713640720
-gems:
-  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
