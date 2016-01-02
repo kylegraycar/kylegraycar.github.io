@@ -2,6 +2,8 @@
 layout: page
 title: About 介绍
 permalink: /about/
+sitemap:
+  priority: 0.8
 ---
 
 I'm Kyle!

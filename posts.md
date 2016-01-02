@@ -2,6 +2,8 @@
 layout: page
 title: Blog 博客
 permalink: /blog/
+sitemap:
+  priority: 0.7
 ---
 
 <ul class="post-list" align="center">

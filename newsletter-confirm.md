@@ -2,6 +2,8 @@
 layout: page
 title:
 permalink: /newsletter/confirm/
+sitemap:
+  priority: 0.0
 ---
 
 Website Newsletter

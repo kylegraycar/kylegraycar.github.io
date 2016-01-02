@@ -3,7 +3,7 @@ layout: post
 title:  "The Dark Side of Travel"
 description:
 date:   2015-11-09 11:08:00
-categories: travel China
+categories: travel
 ---
 
 ![travel1][]
