@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Snaps: Dali Old Town 大理古城"
+title:  "Dali Old Town 大理古城"
 description: Where expats go to party
 date:   2015-12-16 12:11:00
-categories: snaps
+categories: travel
 ---
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/136459740@N03/albums/72157662467199755" title="Dali Old Town"><img src="https://farm6.staticflickr.com/5632/22524507150_9eea87c79a_z.jpg" width="640" height="480" alt="Dali Old Town"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

@@ -4,7 +4,7 @@ title: Our Story (But Much More)
 description: "A student's impressions"
 date: 2015-12-07T10:30:00.000Z
 featured_image: /assets/students.jpg
-categories: teaching
+categories: misc
 tags: 'teaching, China, Yunnan'
 comments:
   - author:
