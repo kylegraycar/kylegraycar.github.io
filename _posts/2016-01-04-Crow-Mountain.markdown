@@ -5,7 +5,7 @@ description: Rural paradise ghost town
 date: 2016-01-06 10:48:00
 categories: travel
 tags: travel, tengchong, yunnan, china, yawushan, rural
-featured_image: /assets/yawushan/mountain1.jpg
+featured_image: kylegraycar.me/assets/yawushan/mountain1.jpg
 ---
 
 ![mountain1]
