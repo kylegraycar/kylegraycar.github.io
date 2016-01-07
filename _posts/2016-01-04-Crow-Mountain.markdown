@@ -11,7 +11,7 @@ tags: travel, tengchong, yunnan, china, yawushan, rural
 
 **By Maggie Rank**
 
-This village will answer to three names: Crow Mountain鸦乌山, Red Cloud 红云, and Phoenix 凤凰. It’s too remote to be located on Google Maps. I have lived here since August 2014.
+This village will answer to three names: Crow Mountain 鸦乌山, Red Cloud 红云, and Phoenix 凤凰. It’s too remote to be located on Google Maps. I have lived here since August 2014.
 
 As it turns out, Crow Mountain is located in northern Tengchong, which is a county in western Yunnan, about 50 miles from the border with Myanmar. While Tengchong is now predominantly Han (the main ethnic group in China), there are some Hui (Chinese Muslim ethnic group), and many people of Burmese descent. Local teachers at my school say that the village was first settled during the Ming Dynasty, and most people still live in courtyard homes built of volcanic stones and mud, but the entire Tengchong region has experienced huge economic growth in the past 20 years. 
 
