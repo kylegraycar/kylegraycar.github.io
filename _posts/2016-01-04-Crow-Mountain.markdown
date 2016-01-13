@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Crow Mountain 腾冲鸦乌山"
+title: Crow Mountain 腾冲鸦乌山
 description: Rural paradise ghost town
-date: 2016-01-06 10:48:00
+date: 2016-01-06T10:48:00.000Z
 featured_image: /assets/yawushan/mountain1.jpg
 categories: travel
-tags: travel, tengchong, yunnan, china, yawushan, rural
+tags: 'travel, tengchong, yunnan, china, yawushan, rural'
+comments:
+  - author:
+      type: github
+      displayName: kylegraycar
+      url: 'https://github.com/kylegraycar'
+      picture: 'https://avatars.githubusercontent.com/u/14287706?v=3&s=73'
+    content: Hi
+    date: 2016-01-13T14:33:19.169Z
+
 ---
 
 ![mountain1]
