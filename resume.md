@@ -4,7 +4,7 @@ title:
 permalink: /resume/
 ---
 
-##Kyle Graycar##
+<h1>Kyle Graycar</h1>
 kgraycar@gmail.com
 
 
