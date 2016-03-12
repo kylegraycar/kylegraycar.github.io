@@ -10,15 +10,14 @@ I'm Kyle!
 
 This is my personal website. I built it with [Jekyll][] and host it on [GitHub][]. 
 
-I'm from California, USA and am now in Yunnan, China. When I get around to it, I usually blog about travel, sustainability, and web development.
-
+I'm from California, USA, spent 18 months teaching in Yunnan, China, and am now back in San Francisco working for [Asia Society][]. I usually blog about travel, sustainability, and web development.
 
 [Resume][]
 
-![My helpful screenshot]({{ kylegraycar }}/assets/me.jpg)
 <br>
 
 
-[Resume]: /resume/ "Hire me? :)"
+[Resume]: /resume/
 [Jekyll]: https://jekyllrb.com
 [GitHub]: https://github.com/kylegraycar
+[Asia Society]: http://asiasociety.org/pacific-cities

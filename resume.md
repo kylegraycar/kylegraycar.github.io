@@ -13,16 +13,18 @@ kgraycar@gmail.com
 University of California, Los Angeles (June 2014)
 <br>Environmental Science, B.S.
 <br>Environmental Systems and Societies Minor | Chinese Language and Culture Minor
-<br>Senior Practicum: "Water Infrastructure Analysis and Recommendations for Remote Education Campground"
 
 <h4><b>EXPERIENCE</b></h4>
 
-<p class="resume"><b>Asia Society</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Remote work / Beijing, China / San Francisco, CA
-<br><b><i>Sustainability Intern</i></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Spring 2015 – Present)</p>
-<h5>Facilitate preparation and operation of Asia Society and the Urban Land Institute's Pacific Cities Sustainability Initiative Forum in Beijing. Synthesize ideas from experts in the Asia Pacific region on climate resilience and city planning. Construct bilingual post-forum report.</h5>
+<p class="resume"><b>Asia Society</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; San Francisco, CA
+<br>
+<b><i>Sustainability Projects Consultant</i></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Spring 2016 - Present)</p>
+<h5 id="resume-mid-content">Provide research, content, and administrative support to Asia Society Northern California's sustainability initiatives and programs, including the US‐China Collaboration on Clear Air Technologies project, and the Pacific Cities Sustainability Initiative (PCSI) 2016 Forum in Jakarta, Indonesia.</h5>
+<p class="resume"><b><i>Sustainability Intern</i></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Spring 2015 – Fall 2015)</p>
+<h5>Facilitated preparation and operation of Asia Society and the Urban Land Institute's Pacific Cities Sustainability Initiative Forum in Beijing. Synthesized ideas from experts in the Asia Pacific region on climate resilience and city planning and constructed post-forum report.</h5>
 
 <p class="resume"><b>Teach For China</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chuxiong, Yunnan, China
-<br><b><i>Fellow</i></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Summer 2014 - Present)</p>
+<br><b><i>Fellow</i></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Summer 2014 - Winter 2016)</p>
 <h5 id="resume-mid-content">Teach spoken English to over 350 middle and high school students in southwestern China. Establish relationships with local teachers, school administrators, and government officials to address education inequality in rural China.</h5>
 <p class="resume"><b><i>Regional Team Leader, Fellows Advisory Council</i></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Fall 2014 – present)</p>
 <h5>Lead seven-person team in representing all fellows in the Chuxiong/Lijiang/Kunming region, streamlining communication between staff and fellows, addressing fellow concerns, and facilitating inter-region projects.</h5>
