@@ -8,9 +8,9 @@ sitemap:
 
 I'm Kyle!
 
-This is my personal website. I built it with [Jekyll][] and host it on [GitHub][]. 
+I'm from California, taught English in southwest China for 18 months, and am now back in San Francisco working for [Asia Society][]. I'm really interested in finding ways the US and China could work together to develop and market clean technologies like solar energy. My hobbies are taiko drumming, bouldering, and watching Game of Thrones.
 
-I'm from California, USA, spent 18 months teaching in Yunnan, China, and am now back in San Francisco working for [Asia Society][]. I usually blog about travel, sustainability, and web development.
+Welcome to my personal website! I built it with [Jekyll][] and host it on [GitHub][].
 
 [Resume][]
 
