@@ -21,8 +21,8 @@ permalink: /resume/
 
 -	Taught English to over 500 middle and high school students in rural southwestern China.
 -	Created over 600 lesson plans, semester plans, and management plans for 8 different classes of 55-70 students.
--	Led seven-person team in representing program fellows to staff, communicating fellow feedback on stipend distribution, tax documentation, visa information, and professional development conferences.
--	Built relationships with teachers and school administrators to address education inequality, acted as cultural ambassador of US, and introduced new teaching methods through class observations and department meetings.
+-	Led seven-person team in representing program fellows to Teach For China management, communicating fellow feedback on stipend distribution, tax documentation, visa information, and professional development conferences.
+-	Built relationships with teachers and school administrators to address education inequality, and introduced new teaching methods through class observations and department meetings.
 
 <p class="resume"><b>Education for Sustainable Living Program</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Los Angeles, CA
 <br><b><i>Director</i></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Fall 2013 – Spring 2014)</p>
