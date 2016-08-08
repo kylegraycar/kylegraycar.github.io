@@ -3,7 +3,7 @@ layout: post
 title: "China Diesel Emission Standards"
 description: Graph of Past, present, and future regulations
 date: 2016-08-07 20:07:00
-featured_image: /assets/yawushan/mountain1.jpg
+featured_image: /assets/emission-standards-graph.png
 categories: sustainability
 tags: China, Beijing, air pollution, air quality, diesel, PM2.5, emissions, standards
 ---
