@@ -41,5 +41,5 @@ Table and graph sources:
 * Ministry of Environmental Protection of China. (2001, April 16). Limits and measurement methods for exhaust pollutants from compression ignition engines of vehicles. Retrieved May 26, 2016, from Ministry of Environmetal Protection of China website: http://www.mep.gov.cn/image20010518/1923.pdf
 * DieselNet. (2015, December). Heavy-Duty Truck and Bus Engines. Retrieved May 9, 2016, from DiselNet: https://www.dieselnet.com/standards/cn/hd.php
 
-[graph]: /assets/china-emission-standards-graph.png
-[table]: /assets/china-emission-standards-table.png
+[graph]: /assets/emission-standards-graph.png
+[table]: /assets/emission-standards-table.png
