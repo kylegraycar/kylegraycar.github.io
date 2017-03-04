@@ -296,7 +296,7 @@
 #mc-embedded-subscribe {
     text-decoration: none;
     font-weight: bold;
-    color: rgba(255, 30, 18, 0.79);
+    color: $green-color;
     line-height: 1.5;
     border: 1px solid #fff;
     background: #fff;
@@ -310,8 +310,8 @@
 
     &:hover {
             font-weight: bold;
-            border: 1px solid $red-color;
-            background: $red-color;
+            border: 1px solid $green-color;
+            background: $green-color;
             color: #fff;
             border-radius: 4px;
         }
@@ -326,21 +326,21 @@
 }
 
 .toplink {
-    color: $red-color-light;
-    border: 1px solid $red-color-light;
+    color: $green-color;
+    border: 1px solid $green-color;
     border-radius: 4px;
     padding-top: 6px;
     padding-right: 6px;
     padding-left: 6px;
 
     &:visited {
-        color: $red-color-light;
+        color: $green-color;
     }
 
     &:hover {
         text-decoration: none;
-        border-color: $red-color;
-        color: $red-color;
+        border-color: $text-color;
+        color: $text-color;
     }
 }
 
