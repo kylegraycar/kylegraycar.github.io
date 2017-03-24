@@ -17,6 +17,13 @@ comments:
         https://pbs.twimg.com/profile_images/708135836768800769/cE_1IKwo_bigger.jpg
     content: test
     date: 2016-10-27T05:03:56.253Z
+  - author:
+      type: github
+      displayName: lewis617
+      url: 'https://github.com/lewis617'
+      picture: 'https://avatars3.githubusercontent.com/u/11524612?v=3&s=73'
+    content: '&#x8FD9;&#x4E2A;&#x8BC4;&#x8BBA;&#x6846;&#x771F;&#x4E0D;&#x9519;&#xFF01;'
+    date: 2017-03-24T02:30:02.028Z
 
 ---
 
