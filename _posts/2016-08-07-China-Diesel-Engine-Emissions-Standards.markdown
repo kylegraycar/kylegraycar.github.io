@@ -1,11 +1,30 @@
 ---
 layout: post
-title: "China Diesel Emission Standards"
-description: Graph of Past, present, and future regulations
-date: 2016-08-07 20:07:00
+title: China Diesel Emission Standards
+description: 'Graph of Past, present, and future regulations'
+date: 2016-08-07T20:07:00.000Z
 featured_image: /assets/emission-standards-graph.png
 categories: sustainability
-tags: China, Beijing, air pollution, air quality, diesel, PM2.5, emissions, standards
+tags: >-
+  China, Beijing, air pollution, air quality, diesel, PM2.5, emissions,
+  standards
+comments:
+  - author:
+      type: twitter
+      displayName: KyleGraycar
+      url: 'https://twitter.com/KyleGraycar'
+      picture: >-
+        https://pbs.twimg.com/profile_images/708135836768800769/cE_1IKwo_bigger.jpg
+    content: test
+    date: 2016-10-27T05:03:56.253Z
+  - author:
+      type: github
+      displayName: lewis617
+      url: 'https://github.com/lewis617'
+      picture: 'https://avatars3.githubusercontent.com/u/11524612?v=3&s=73'
+    content: '&#x8FD9;&#x4E2A;&#x8BC4;&#x8BBA;&#x6846;&#x771F;&#x4E0D;&#x9519;&#xFF01;'
+    date: 2017-03-24T02:30:02.028Z
+
 ---
 
 *Here's an excerpt from the report I'm producing with Asia Society in San Francisco. There previously had never been a complete visualization of all of China's diesel engine emission standards, so I punched DieselNet and China Ministry of Environmental Protection data into Excel and voila! Special thanks to Cristin Lim for helping me with the graph design.*
